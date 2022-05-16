@@ -36,3 +36,9 @@
 - Forks : 403
 
 - Context Switches : 10
+
+### 3) In this question, we will understand how to monitor the status of a running process using the top command. Compile the program cpu.c given to you and execute it in the bash or any other shell of your choice as follows.
+
+- PID : 122
+- CPU : 99.7
+- State : Running
