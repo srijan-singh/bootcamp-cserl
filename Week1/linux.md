@@ -14,8 +14,6 @@
 
 ### 2) In this question, we will understand the hardware configuration of your working machine using the /proc filesystem.
 
-<br>
-
 - Processor is an electronic circuit inside that carries out instruction to perform arithmetic, logical, control and input/output operations while the core is an execution unit inside the CPU that receives and executes instructions.
 
 - Info
@@ -23,28 +21,18 @@
     - Cores : 2
     - Processors : 4
 
-<br>
-
 - Frequency: 2592.007 MHz
-
-<br>
 
 - RAM : 3800 MB
 
     - Free : 177 MB 
-    
-    Free and Available RAM is the amount of memory that is not being used and can be use for execution of other file without altering other process.
 
-<br>
+    Free and Available RAM is the amount of memory that is not being used and can be use for execution of other file without altering other process.
 
 - User Level Process
     - 45 pts/0 00:00:00
     - 94 pts/0 00:00:00
 
-<br>
-
 - Forks : 403
-
-<br>
 
 - Context Switches : 10
