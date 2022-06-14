@@ -1,3 +1,6 @@
 asio-1.22.1/
 x64/
 .vs/
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
