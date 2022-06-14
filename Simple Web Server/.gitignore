@@ -1,0 +1,7 @@
+asio-1.22.1/
+x64/
+.vs/
+Simple Web Server.sln
+Simple Web Server.vcxproj
+Simple Web Server.vcxproj.filters
+Simple Web Server.vcxproj.user
